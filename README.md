@@ -1,4 +1,4 @@
-[![MasterHead](https://www.simplilearn.com/ice9/free_resources_article_thumb/How_to_Become_a_Back_End_Developer.jpg)]
+[![MasterHead]([https://www.simplilearn.com/ice9/free_resources_article_thumb/How_to_Become_a_Back_End_Developer.jpg](https://i0.wp.com/www.unionsquaredesign.com/wp-content/uploads/2016/10/full-stack-developer-illustration-Feature_1290x688_MS.jpg?ssl=1))]
 <h1 align="center">Hi 👋, I'm Adam Oliver</h1>
 <h3 align="center">Full-stack development is my craft, and coding is my passion.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
