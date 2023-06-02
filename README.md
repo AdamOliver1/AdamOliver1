@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Adam Oliver</h1>
-<h3 align="center">Full-stack development is my craft, and coding is my passion.</h3>
+<h3 align="center">A passionate full-stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🌱 I’m currently learning **OpenAI Python API**
 
@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences [https://github.com/AdamOliver1/resume/blob/main/Adam%20Oliver%20CV.pdf](https://github.com/AdamOliver1/resume/blob/main/Adam%20Oliver%20CV.pdf)
 
-- ⚡ Fun fact **While I stay active through my love for sports and exercise, I also enjoy the occasional challenge of a Rubik's Cube.**
+- ⚡ Fun fact **I love staying active with sports and workouts**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
