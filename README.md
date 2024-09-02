@@ -4,13 +4,11 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🌱 I’m currently learning **OpenAI Python API**
 
-- 💬 Ask me about **.NET, flask and nodeJS/TS**
+- 💬 Ask me about **.NET, nodeJS + NestJS, AWS and more!**
 
 - 📫 How to reach me **adamoliver6929@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/AdamOliver1/resume/blob/main/Adam%20Oliver%20CV.pdf](https://github.com/AdamOliver1/resume/blob/main/Adam%20Oliver%20CV.pdf)
-
-- ⚡ Fun fact **I love staying active with sports and workouts**
+- 📄My experiences [https://github.com/AdamOliver1/resume/blob/main/Adam%20Oliver%20CV.pdf](https://github.com/AdamOliver1/resume/blob/main/Adam%20Oliver%20CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
