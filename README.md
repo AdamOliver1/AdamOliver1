@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Adam Oliver</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🌱 I’m currently learning **OpenAI Python API**
+- 🌱 I’m currently learning **NestJs**
 
-- 💬 Ask me about **.NET, nodeJS + NestJS, AWS and more!**
+- 💬 Ask me about **.NET, nodeJS ,React, AWS and more!**
 
 - 📫 How to reach me **adamoliver6929@gmail.com**
 
