@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **adamoliver6929@gmail.com**
 
-- 📄My experiences [https://github.com/AdamOliver1/resume/blob/main/Adam%20Oliver%20CV.pdf](https://github.com/AdamOliver1/resume/blob/main/Adam%20Oliver%20CV.pdf)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/adam-oliver-067451213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adam-oliver-067451213/" height="30" width="40" /></a>
